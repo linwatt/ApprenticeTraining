@@ -12,6 +12,17 @@
    "teacherOnly": false
   },
   {
+   "id": "7c64bb6c-b337-76b4-b4e8-cf374866ad42",
+   "title": "To-do List App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/To-do-List-App-7c64.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "44fff2cc-9081-3fef-f7e2-8825fad7036d",
    "title": "HealthCare App",
    "files": [],
@@ -23,12 +34,12 @@
    "teacherOnly": false
   },
   {
-   "id": "7c64bb6c-b337-76b4-b4e8-cf374866ad42",
+   "id": "7163c549-719a-2c35-590a-fc4957355568",
    "title": "Horoscope App",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Horoscope-App-7c64.md",
+   "content-file": ".guides/content/Horoscope-App-7163.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
