@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "dce8caeb-9981-8c2d-9b8f-54d5ba398e78",
+   "title": "Calculator App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Calculator-App-dce8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "44fff2cc-9081-3fef-f7e2-8825fad7036d",
+   "title": "Section 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-2-44ff.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
