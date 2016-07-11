@@ -13,11 +13,22 @@
   },
   {
    "id": "44fff2cc-9081-3fef-f7e2-8825fad7036d",
-   "title": "Section 2",
+   "title": "HealthCare App",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Section-2-44ff.md",
+   "content-file": ".guides/content/HealthCare-App-44ff.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7c64bb6c-b337-76b4-b4e8-cf374866ad42",
+   "title": "Horoscope App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Horoscope-App-7c64.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
